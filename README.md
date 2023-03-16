@@ -312,10 +312,10 @@
   <td align="center"><img src=https://avatars.githubusercontent.com/u/58041212?v=4"/></td>
   </tr>
     <tr>
-  <td align="center">1현정</td>
-  <td align="center">2현정</td>
-  <td align="center">3현정</td>
-  <td align="center">4현정</td>
+  <td align="center">1이름</td>
+  <td align="center">2이름</td>
+  <td align="center">3이름</td>
+  <td align="center">4이름</td>
   </tr>
     <tr>
   <td colspan=4></td>
