@@ -241,7 +241,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">해당 강의의 실습으로 대체합니다. 실습한 전체 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.</td>
+<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
