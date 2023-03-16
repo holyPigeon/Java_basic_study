@@ -1,4 +1,4 @@
-<p align="center">![제목을-입력해주세요_-001 (3)](https://user-images.githubusercontent.com/58041212/225630182-3c2bdd35-6bac-48ab-bb22-e66703101e6a.jpg)</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/58041212/225630182-3c2bdd35-6bac-48ab-bb22-e66703101e6a.jpg"></p>
 
 <br><br>
 ## ✨ 제출 방법
