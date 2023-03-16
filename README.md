@@ -9,7 +9,7 @@
 
 - 푸쉬할 때, 하단 [제출 과제 컨벤션](#📝-제출-과제-컨벤션) 꼭 참고해주세요!
 
-4. InQ 그룹의 `InQ_2023_CBasic`으로 `pull request`를 생성해주세요.
+4. InQ 그룹의 `InQ_2023_JavaBasic`으로 `pull request`를 생성해주세요.
 
 - `PR`을 생성하실 때, 과제 진행 간 어려웠던 점, 설명받고 싶은 점 등을 적어주신다면<br>차후 모임 수업에서 피드백 진행해드려요!
 
@@ -21,9 +21,9 @@
 
 - PR 컨벤션 : `[1주차] 김인큐 과제 제출"`
 
-- 파일 이름 컨벤션 : `Week1_9876.c`
+- 파일 이름 컨벤션 : `Week1_9876.java`
 
-  - 주차_문제번호.c 양식을 반드시 지켜주세요
+  - 주차_문제번호.java 양식을 반드시 지켜주세요
 
   - 문제번호는 백준(BOJ) 사이트 주소창에서 확인할 수 있습니다.
 
@@ -51,6 +51,7 @@
 - 궁금한 점은 편하게 팀장한테 문의주시기 바랍니다!
 
 <br>
+
 ## 📱 커리큘럼
 <table align="center" width=100%>
   <tr>
@@ -59,13 +60,13 @@
   3/27 ~ 4/1
     </td>
     <td colspan = "10" align="center">
-  파트 1. 자바 시작하기 a. 자바란? ~ 5. 주석문(실습) <br>
-  파트 2. 변수와 계산 a. 변수 ~ 4. 상수(실습)
+  1.1 자바란? ~ 1.5 주석문 - 실습 <br>
+  2.1 변수 ~ 2.14 상수 - 실습
   <br></td>
   </tr>
   <tr>
   <td colspan=2 align="center">과제</td>
-  <td colspan=8 align="center">추후 공지</td>
+  <td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/10869"/>사칙연산</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -87,12 +88,12 @@
   4/3 ~ 4/9
     </td>
     <td colspan = "10" align="center">
-  파트 2. 변수와 계산 e. 기본형 타입 ~ 14. 연산자 우선 순위
+  3.1 if문 ~ 3.11 switch문 - 실습2
     </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">추후 공지</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/2753"/>윤년</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -122,12 +123,14 @@
   4/24 ~ 4/30
     </td>
     <td colspan = "10" align="center">
-  파트 3. 제어문 1. if문 ~ 11. switch문(실습2)
+  3.12 while문 ~ 3.17 for문 - 실습
+  <br>
+  4.1 배열 만들기 ~ 4.5 배열 사용하기 - 실습2
     </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">추후 공지</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/2439"/>별 찍기 2</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -149,14 +152,14 @@
   5/1 ~ 5/7
     </td>
     <td colspan = "10" align="center"> 
-  파트 3. 제어문 1. while문 ~ 17. for문(실습)
+  4.6 2차원 배열 ~ 4.9 for each - 실습
   <br>
-  파트 4. 배열 1. 배열 만들기 ~ 5. 배열 사용하기(실습2)
+  5.1 클래스 선언 ~ 5.8 필드 선언 - 실습
   </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">추후 공지</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/10818"/>최소, 최대</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -177,15 +180,14 @@
   <br>
   5/8 ~ 5/14
     </td>
-    <td colspan = "9" align="center">
-  파트 4. 배열 f. 2차원 배열 ~ 9. for each(실습)
-  <br>
-  파트 5. 클래스와 객체 1. 클래스 선언 ~ 8. 필드 선언(실습)
+    <td colspan = "10" align="center">
+    5.9 메소드란? ~ 5.20 열거형
   </td>
   </tr>
    <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">추후 공지</td>
+<td colspan=8 align="center">해당 강의의 실습으로 대체합니다. 실습한 전체 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.<br>
+  파일명은 "Week5_메소드(Method)선언_실습2"와 같은 형태로 해당 주차 뒤에 실습명을 붙여서 제출해주시면 됩니다.</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -207,14 +209,13 @@
   5/15 ~ 5/21
     </td>
     <td colspan = "10" align="center">
-  파트 5. 클래스와 객체 1. 클래스 선언 ~ 8. 필드 선언(실습) -> 복습!
-  <br>
-  메소드란? ~ 14. 메소드 사용해보기(실습)
+    6.1 생성자 ~ 6.9 this - 실습
     </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">추후 공지</td>
+<td colspan=8 align="center">해당 강의의 실습으로 대체합니다. 실습한 전체 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.<br>
+  파일명은 "Week5_메소드(Method)선언_실습2"와 같은 형태로 해당 주차 뒤에 실습명을 붙여서 제출해주시면 됩니다.</td>
 </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -224,7 +225,7 @@
     <td align="center">🤍 규선</td>
     <td align="center">🤍 정민</td>
     <td align="center">🤍 영우</td>
-  <td align="center">🤍 현서</td>
+    <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
   </tr>
     <tr>
@@ -236,12 +237,13 @@
   5/22 ~ 5/28
     </td>
     <td colspan = "10" align="center">
-  파트 5. 클래스와 객체 1. String 클래스의 메소드 ~ 20. 열거형
+  7.1 상속 ~ 7.12 오버라이딩 - 실습2
   </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">추후 공지</td>
+<td colspan=8 align="center">해당 강의의 실습으로 대체합니다. 실습한 전체 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.<br>
+  파일명은 "Week5_메소드(Method)선언_실습2"와 같은 형태로 해당 주차 뒤에 실습명을 붙여서 제출해주시면 됩니다.</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -251,7 +253,7 @@
     <td align="center">🤍 규선</td>
     <td align="center">🤍 정민</td>
     <td align="center">🤍 영우</td>
-  <td align="center">🤍 현서</td>
+    <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
   </tr>
     <tr>
@@ -263,35 +265,10 @@
   5/29 ~ 6/4
     </td>
     <td colspan = "10" align="center">
-  파트 6. 클래스 다듬기 1. 생성자 ~ 9. 패키지
+  7.13 클래스 형변환 ~ 7.15 클래스 형변환 - 실습2<br>
+  8.1 인터페이스 만들기 ~ 8.8 익명클래스<br>
+  9.1 exception ~ 9.9 사용자 정의 Exception - 실습2
     </td>
-  </tr>
-  <tr>
-<td colspan=2 align="center">과제</td>
-<td colspan=8 align="center">추후 공지</td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">성취도</td>
-    <td align="center">🤍 성현</td>
-    <td align="center">🤍 나현</td>
-    <td align="center">🤍 재훈</td>
-    <td align="center">🤍 규선</td>
-    <td align="center">🤍 정민</td>
-    <td align="center">🤍 영우</td>
-  <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>
-  </tr>
-    <tr>
-  <td colspan=12></td>
-  </tr>
-<tr>
-    <td rowspan = "3" colspan = "2" align="center"><b>WEEK 9</b>
-  <br>
-6/5 ~ 6/11
-    </td>
-    <td colspan = "10" align="center">
-  파트 5. 클래스와 객체 1. String 클래스의 메소드 ~ 20. 열거형
-  </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
@@ -309,7 +286,10 @@
     <td align="center">🤍 원감</td>
   </tr>
 </table>
-<br>
+
+<br> <br> 
+
+
 <table align="center">
     <tr>
     <td colspan=2 align="center"><a href="https://github.com/holyPigeon"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+80s+Fade&color=ffffFF&size=30&center=true&vCenter=true&width=500&height=35&lines=TeamMaster&duration=1&pause=1000" style="vertical-align:top" width=100%></td>
