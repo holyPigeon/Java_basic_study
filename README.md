@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/58041212/225630182-3c2bdd35-6bac-48ab-bb22-e66703101e6a.jpg"></p>
 
-<br><br>
+<br>
 ## ✨ 제출 방법
 
 1. 해당 레포지토리를 `fork`하여 본인의 레포지토리에 생성해주세요.
