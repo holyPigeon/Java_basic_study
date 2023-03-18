@@ -184,7 +184,7 @@
   </tr>
    <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.</td>
+<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -210,7 +210,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.</td>
+<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
 </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -236,7 +236,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출하시면 됩니다.</td>
+<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -254,7 +254,7 @@
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 8</b>
   <br>
-  5/29 ~ 6/4
+  5/29 ~
     </td>
     <td colspan = "9" align="center">
   7.13 클래스 형변환 ~ 7.15 클래스 형변환 - 실습2<br>
