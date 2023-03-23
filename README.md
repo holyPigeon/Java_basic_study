@@ -308,7 +308,7 @@
   </tr>
   <tr>
   <td align="center"><a href="https://github.com/gyuseon25"><img src=https://avatars.githubusercontent.com/u/118058218?v=4"/></td>
-  <td align="center"><img src=https://avatars.githubusercontent.com/u/51479381?v=4"/></td>
+  <td align="center"><a href="https://github.com/nahyun0423"><img src=https://avatars.githubusercontent.com/u/68987116?v=4"/></td>
   <td align="center"><a href="https://github.com/hupa7"><img src=https://avatars.githubusercontent.com/u/128016629?v=4"/></td>
   <td align="center"><a href="https://github.com/wongam01"><img src=https://avatars.githubusercontent.com/u/128019637?v=4"/></td>
   </tr>
