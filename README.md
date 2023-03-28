@@ -71,14 +71,14 @@
   <br>
   3/27 ~ 4/1
     </td>
-    <td colspan = "9" align="center">
+    <td colspan = "10" align="center">
   1.1 자바란? ~ 1.5 주석문 - 실습 <br>
   2.1 변수 ~ 2.14 상수 - 실습
   <br></td>
   </tr>
   <tr>
   <td colspan=2 align="center">과제</td>
-  <td colspan=7 align="center"><a href="https://www.acmicpc.net/problem/10869"/>사칙연산</td>
+  <td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/10869"/>사칙연산</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -89,22 +89,23 @@
     <td align="center">🤍 정민</td>
     <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
+    <td align="center">🤍 영우</td>
   </tr>
   <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 2</b>
   <br>
   4/3 ~ 4/9
     </td>
-    <td colspan = "9" align="center">
+    <td colspan = "10" align="center">
   3.1 if문 ~ 3.11 switch문 - 실습2
     </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/2753"/>윤년</td>
+<td colspan=9 align="center"><a href="https://www.acmicpc.net/problem/2753"/>윤년</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -114,25 +115,26 @@
     <td align="center">🤍 규선</td>
     <td align="center">🤍 정민</td>
     <td align="center">🤍 현서</td>
-    <td align="center">🤍 원감</td>
+    <td align="center">🤍 원감</td>  
+    <td align="center">🤍 영우</td>
   </tr>
     <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
-    <td colspan = "11" align="center"><b>< 중간고사 대비기간 ></b>
+    <td colspan = "12" align="center"><b>< 중간고사 대비기간 ></b>
   <br>
   2주 동안 스터디도 쉬어갑니다 👋🏻</td><br/>
   </tr>
   <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 3</b>
   <br>
   4/24 ~ 4/30
     </td>
-    <td colspan = "9" align="center">
+    <td colspan = "10" align="center">
   3.12 while문 ~ 3.17 for문 - 실습
   <br>
   4.1 배열 만들기 ~ 4.5 배열 사용하기 - 실습2
@@ -140,7 +142,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center"><a href="https://www.acmicpc.net/problem/2439"/>별 찍기 2</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/2439"/>별 찍기 2</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -151,16 +153,17 @@
     <td align="center">🤍 정민</td>
     <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
+    <td align="center">🤍 영우</td>
   </tr>
     <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 4</b>
   <br>
   5/1 ~ 5/7
     </td>
-    <td colspan = "9" align="center"> 
+    <td colspan = "10" align="center"> 
   4.6 2차원 배열 ~ 4.9 for each - 실습
   <br>
   5.1 클래스 선언 ~ 5.8 필드 선언 - 실습
@@ -168,7 +171,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center"><a href="https://www.acmicpc.net/problem/10818"/>최소, 최대</td>
+<td colspan=8 align="center"><a href="https://www.acmicpc.net/problem/10818"/>최소, 최대</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -179,22 +182,23 @@
     <td align="center">🤍 정민</td>
   <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
+<td align="center">🤍 영우</td>
   </tr>
     <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 5</b>
   <br>
   5/8 ~ 5/14
     </td>
-    <td colspan = "9" align="center">
+    <td colspan = "10" align="center">
     5.9 메소드란? ~ 5.20 열거형
   </td>
   </tr>
    <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -205,22 +209,23 @@
     <td align="center">🤍 정민</td>
   <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
+<td align="center">🤍 영우</td>
   </tr>
     <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 6</b>
   <br>
   5/15 ~ 5/21
     </td>
-    <td colspan = "9" align="center">
+    <td colspan = "10" align="center">
     6.1 생성자 ~ 6.9 this - 실습
     </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
 </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -231,22 +236,23 @@
     <td align="center">🤍 정민</td>
     <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
+<td align="center">🤍 영우</td>
   </tr>
     <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 7</b>
   <br>
   5/22 ~ 5/28
     </td>
-    <td colspan = "9" align="center">
+    <td colspan = "10" align="center">
   7.1 상속 ~ 7.12 오버라이딩 - 실습2
   </td>
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
+<td colspan=8 align="center">해당 강의의 실습으로 대체하며, 소스코드와 정답 화면을 스크린샷으로 찍어서 제출해주세요!</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -257,16 +263,17 @@
     <td align="center">🤍 정민</td>
     <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
+<td align="center">🤍 영우</td>
   </tr>
     <tr>
-  <td colspan=11></td>
+  <td colspan=12></td>
   </tr>
   <tr>
     <td rowspan = "3" colspan = "2" align="center"><b>WEEK 8</b>
   <br>
   5/29 ~
     </td>
-    <td colspan = "9" align="center">
+    <td colspan = "10" align="center">
   7.13 클래스 형변환 ~ 7.15 클래스 형변환 - 실습2<br>
   8.1 인터페이스 만들기 ~ 8.8 익명클래스<br>
   9.1 exception ~ 9.9 사용자 정의 Exception - 실습2
@@ -274,7 +281,7 @@
   </tr>
   <tr>
 <td colspan=2 align="center">과제</td>
-<td colspan=7 align="center">추후 공지</td>
+<td colspan=8 align="center">추후 공지</td>
   </tr>
   <tr>
     <td colspan=2 align="center">성취도</td>
@@ -285,6 +292,7 @@
     <td align="center">🤍 정민</td>
   <td align="center">🤍 현서</td>
     <td align="center">🤍 원감</td>
+<td align="center">🤍 영우</td>
   </tr>
 </table>
 
@@ -325,13 +333,13 @@
   <td align="center"><a href="https://github.com/SongJaeHoonn"><img src=https://avatars.githubusercontent.com/u/128021502?v=4"/></td>
   <td align="center"><a href="https://github.com/JeongMin-2"><img src=https://avatars.githubusercontent.com/u/128018186?v=4"/></td>
   <td align="center"><a href="https://github.com/hyeonseo9"><img src=https://avatars.githubusercontent.com/u/128016782?v=4"/></td>
-  <td align="center"></td>
+  <td align="center"><a href="https://github.com/piedra-de-flor"><img src=https://avatars.githubusercontent.com/u/101418352?v=4"/></td>
   </tr>
 <tr>
   <td align="center">재훈</td>
   <td align="center">정민</td>
   <td align="center">현서</td>
-  <td align="center"></td>
+  <td align="center">영우</td>
   </tr>
     <tr>
   <td colspan=2></td>
