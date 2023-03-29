@@ -161,7 +161,7 @@
   <br>
   5/1 ~ 5/7
     </td>
-    <td colspan = "10" align="center"> >
+    <td colspan = "10" align="center">
   5.1 클래스 선언 ~ 5.14 메소드 사용해보기 - 실습(2)
   </td>
   </tr>
